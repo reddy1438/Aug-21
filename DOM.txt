@@ -1,0 +1,3 @@
+Using document.querySelector method
+Accessing elements by id (with getElementById method)
+Accessing elements by class names (e.g. document.getElementsByClassName(‘my_class’)[4])
